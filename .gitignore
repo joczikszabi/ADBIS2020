@@ -1,0 +1,5 @@
+# MacOS related files
+.DS_Store
+
+# Jupyter notebook cache files/folders
+.ipynb_checkpoints
